@@ -1,0 +1,49 @@
+@CHARSET "utf-8";
+
+
+table{
+margin: auto;
+}
+body {
+background-color: A6CAF5;
+/*url(img/images.jpg) no-repeat ;*/
+background-size : cover;
+}
+
+fieldset{
+margin:  auto;
+margin-top: 180px;
+background-color:D6E6E4;
+max-width:500px;
+padding:16px;	
+border:2px solid ;
+-moz-border-radius:8px;
+-webkit-border-radius:8px;	
+border-radius:8px;	
+  
+}
+
+legend {
+text-align : center;
+}
+
+label {
+display:block;
+width:150px;
+float:left;
+}
+
+#inscrip {
+float: left;
+cursor:pointer;
+}
+
+input[type="submit"]{
+ margin-top : 10px;
+ float : right;
+ cursor:pointer;
+}
+
+
+
+

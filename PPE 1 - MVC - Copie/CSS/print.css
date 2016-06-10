@@ -1,0 +1,41 @@
+@CHARSET "utf-8";
+#h {
+color: red;
+font-size:40px;
+text-align: center;
+border:solid;	
+}
+
+#b {
+font-size:20px;
+text-align:left;
+color: Black;
+}
+#principal {
+text-align:center;
+font-family:'Helvetica';
+}
+h1 {
+color:blue;
+}
+
+table {
+text-align:center;
+margin: auto;
+width : 600px;
+border :solid black;
+border-collapse:collapse;
+}
+
+table tr {
+border-bottom: 1px solid;
+border-right: 1px solid;
+}
+table th {
+border-bottom: 1px solid;
+border-right: 1px solid;
+}
+table td {
+border-bottom: 1px solid;
+border-right: 1px solid;
+}
